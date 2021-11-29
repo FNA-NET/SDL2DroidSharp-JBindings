@@ -4,6 +4,12 @@
     <SupportedOSPlatformVersion>21</SupportedOSPlatformVersion>
     <RootNamespace>SDL2DroidSharp_JBindings</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
+
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>FNA-NET</Authors>
+    <Description>Android Java library bindings for SDL2.</Description>
+    <PackageTags>SDL2;android;dotnet;</PackageTags>
+    <PackageId>SDL2DroidSharp-JBindings</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
